@@ -1,0 +1,9 @@
+TASK 2 — KEY INSIGHTS
+Total sales: 114,590.50
+Total profit: 19,952.94
+Orders: 240
+Average sales per order: 477.46
+Top region: South (32,402.40)
+Top category: Technology (58,712.22)
+Top month number: 12
+Synthetic practice dataset; not official Kaggle Superstore data.
